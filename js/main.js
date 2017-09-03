@@ -357,7 +357,7 @@ function chart(tmp) {
       $('#SMA').click(function() {
         candlestickchart.addIndicator({
           name: parseInt(document.getElementById('SMAperiod').value)+'-day SMA',
-          id: 'line',
+          id: 'candle',
           type: 'sma',
           styles: {
             stroke: document.getElementById('SMAcolor').value
