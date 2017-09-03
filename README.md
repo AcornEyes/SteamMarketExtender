@@ -7,6 +7,11 @@ http://skilledtra.de/demo.html
 3. go to chrome://extensions
 4. Drag [steammarket.crx](./steammarket.crx) to the page
 5. Done!
+## If that doesn't work:
+1. Download the [zipped file](https://github.com/AcornEyes/SteamMarketExtender/archive/master.zip)
+2. Extract it to a folder
+3. Drag the folder to chrome://extensions
+4. Done! 
 
 ## Usage
 * Make sure you are signed into steam (*still trying to figure out how to make an XHR request without having to be logged into steam*)
