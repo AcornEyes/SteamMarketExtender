@@ -1,6 +1,6 @@
 # Steam Market Extender
 ## Demo
-http://skilledtra.de/demo.html
+http://skilledtra.de/chartdemo
 ## Installation
 1. Right-click [steammarket.crx](./steammarket.crx) and click save-as.
 2. Save it anywhere
