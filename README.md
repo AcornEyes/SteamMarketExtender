@@ -1,18 +1,22 @@
 # Steam Market Extender
 ## Demo
 http://skilledtra.de/chartdemo
-## Installation
+## Installation (Chrome/Opera)
 1. Right-click [steammarket.crx](./steammarket.crx) and click save-as.
 2. Save it anywhere
-3. go to chrome://extensions
+3. go to [chrome://extensions](chrome://extensions) (opera: [about://extensions](about://extensions))
 4. Drag [steammarket.crx](./steammarket.crx) to the page
 5. Done!
-## If that doesn't work:
+### If that doesn't work:
 1. Download the [zipped file](https://github.com/AcornEyes/SteamMarketExtender/archive/master.zip)
 2. Extract it to a folder
-3. Drag the folder to chrome://extensions
+3. Drag the folder to [chrome://extensions](chrome://extensions) (opera: [about://extensions](about://extensions))
 4. Done! 
-
+## Installation (Firefox)
+1. Open [about:config](about:config)
+2. Search "xpinstall.signatures.required"
+3. Set it to false
+4. Install the extension from here: https://addons.mozilla.org/en-US/firefox/addon/steam-market-extended/
 ## Usage
 * Make sure you are signed into steam (*still trying to figure out how to make an XHR request without having to be logged into steam*)
 * Navigate to an item you would like to view market details about
